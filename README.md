@@ -1,2 +1,2 @@
 # BASH script for enumeration
-Pretty basic bash script running commands store in array.
+Very basic bash script running commands stored in array.
